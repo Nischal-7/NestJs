@@ -10,6 +10,7 @@
 
 [Nest Js]()
 ## concepts in NestJs
+* [dev tools](https://devtools.nestjs.com/)
 * [routing](https://www.youtube.com/watch?v=MsaMBSJUNtQ)
 * [routing blog](https://blog.logrocket.com/understanding-controllers-routes-nestjs/)
 * [middlewares](https://www.youtube.com/watch?v=kz59XWSjyvI)
