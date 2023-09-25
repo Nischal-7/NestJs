@@ -1,12 +1,21 @@
-[Advanced concepts in js](https://www.youtube.com/watch?v=R9I85RhI7Cg)
+* HTTP req/res codes
+* [JavaScript fundamentals](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+* [JavaScript fundamentals - season 2](https://www.youtube.com/playlist?list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX)
+* [Advanced concepts in js](https://www.youtube.com/watch?v=R9I85RhI7Cg)
 
-[important js concpets](https://www.youtube.com/playlist?list=PL1PqvM2UQiMoGNTaxFMSK2cih633lpFKP)
+* [important js concpets](https://www.youtube.com/playlist?list=PL1PqvM2UQiMoGNTaxFMSK2cih633lpFKP)
 
-[es6 concepts](https://www.youtube.com/watch?v=NCwa_xi0Uuc)
+* [es6 concepts](https://www.youtube.com/watch?v=NCwa_xi0Uuc)
 
-[Typescript](https://www.youtube.com/watch?v=d56mG7DezGs)
+* [Typescript](https://www.youtube.com/watch?v=d56mG7DezGs)
+* Relational DB - PostgreSQL
+* NoSQL Document databases - MongoDB
+* NoSQL Realtime DB - Firebase
+* NoSQL Column DB - Cassandra
+* Caching - Redis
 
-[Rest api](https://www.youtube.com/watch?v=WXsD0ZgxjRw&t=56s)
+* ORM - Prisma & GraphQL
+* [Rest api](https://www.youtube.com/watch?v=WXsD0ZgxjRw&t=56s)
 
 [Nest Js]()
 ## concepts in NestJs
